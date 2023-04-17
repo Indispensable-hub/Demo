@@ -1,0 +1,15 @@
+
+
+#Style1{
+    margin: 2px;
+    padding: 3px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+
+.parent{
+    margin: 10px;
+    padding: 3px;
+    background-color: cadetblue;
+    border-radius: 30px;
+}
